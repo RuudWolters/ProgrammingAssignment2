@@ -1,7 +1,7 @@
 ## Introduction
 ##
-## This is a Peer Assessments /Programming Assignment 2: Lexical Scoping 
-## For  the course coursera R Programming
+## This is a Peer Assessments/Programming Assignment 2: Lexical Scoping 
+## For  the course from coursera "R Programming"
 ## by Roger D. Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD
 ## look at https://class.coursera.org/
 
@@ -24,7 +24,7 @@
 ## step 1 # create a matrix 
 ## matrix  <- matrix(1:4, nrow=2, ncol=2)
 ## creates the following matrix
-## [,1] [,2]
+##      [,1] [,2]
 ## [1,]    1    3
 ## [2,]    2    4
 ##
@@ -39,7 +39,7 @@
 ##
 ## result:
 ## inverseMatrix
-## [,1] [,2]
+##      [,1] [,2]
 ## [1,]   -2  1.5
 ## [2,]    1 -0.5
 
